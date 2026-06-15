@@ -70,3 +70,19 @@ draw_arc(210, 120)
 lines(330)
 turtleBeads.teleport(145, -20)
 lines(46)
+
+#drawing straw
+turtleBeads.teleport(44.07,-4.87)
+setheading(60)
+begin_fill()
+fillcolor("#fdadc8")
+pencolor("#fdadc8")
+def straw(up):
+    forward(up)
+    right(90)
+
+straw(150)
+straw(20)
+straw(150)
+straw(20)
+end_fill()
