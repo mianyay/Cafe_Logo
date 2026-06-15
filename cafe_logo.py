@@ -88,9 +88,22 @@ straw(20)
 end_fill()
 
 # word
-turtleBeads.teleport(-150, 110)
+turtleBeads.teleport(-115, 110)
 pencolor("#fe832f")
-write("CAFE", font = ("Arial Rounded MT Bold", 60))
+write("CAFE", font = ("Trebuchet MS", 60))
+
+turtleBeads.teleport(-148.48, -70.05)
+pencolor("#00a1e7")
+pensize(3)
+forward(10)
+backward(10)
+left(90)
+pensize(8)
+backward(5)
+
+turtleBeads.teleport(120.39, -58.31)
+left(75)
+forward(10)
 
 turtleBeads.showPicture()
 mainloop()
