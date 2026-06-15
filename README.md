@@ -1,5 +1,5 @@
 # Cafe Logo
-A project made on VS code using python for an assessment task at school. The aim of the project was to create a logo that would be well suited for a client needs.
+A project made in VS Code using Python for an assessment task at school. The project aimed to create a logo that would be well suited to a client's needs. Further details can be seen in the Y9PRO - Task 3 - Art programming.docx file.
 
 ## Built using:
 - Python
