@@ -13,3 +13,13 @@ begin_fill()
 turtleBeads.drawCircle(30)
 fillcolor("#ffc80e")
 end_fill()
+
+# Draw arc
+def draw_arc(radius, heading):
+    setheading(heading)
+    circle(radius, 130)
+
+# The lines
+def lines(head):
+    setheading(head)
+    forward(35)
