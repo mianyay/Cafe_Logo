@@ -86,3 +86,11 @@ straw(20)
 straw(150)
 straw(20)
 end_fill()
+
+# word
+turtleBeads.teleport(-150, 110)
+pencolor("#fe832f")
+write("CAFE", font = ("Arial Rounded MT Bold", 60))
+
+turtleBeads.showPicture()
+mainloop()
