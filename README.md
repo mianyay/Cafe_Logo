@@ -10,7 +10,7 @@ A project made in VS Code using Python for an assessment task at school. The pro
 <img width="792" height="730" alt="demo" src="https://github.com/user-attachments/assets/02674223-1640-40a0-a4c1-86c1119af220" />
 
 ## Live Demo
-You can download a Windows executable of the logo being drawn here:
+You can download a Windows executable of the logo being drawn here (download cafe_logo.exe):
 https://github.com/mianyay/Cafe_Logo/releases/latest
 
 
