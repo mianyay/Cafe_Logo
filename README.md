@@ -6,4 +6,8 @@ A project made on VS code using python for an assessment task at school. The aim
 - Turtle module
 - turtleBeads module
 
+## Demo
+<img width="792" height="730" alt="demo" src="https://github.com/user-attachments/assets/02674223-1640-40a0-a4c1-86c1119af220" />
+
+
   
