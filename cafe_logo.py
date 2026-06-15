@@ -23,3 +23,20 @@ def draw_arc(radius, heading):
 def lines(head):
     setheading(head)
     forward(35)
+
+# first one
+turtleBeads.teleport(76, -115)
+begin_fill()
+lines(230)
+draw_arc(60, 115)
+lines(146)
+draw_arc(-90, -291)
+fillcolor("#ffc80e")
+end_fill()
+
+# second one
+turtleBeads.teleport(122, -55)
+begin_fill()
+lines(228)
+draw_arc(120, 117)
+lines(148)
