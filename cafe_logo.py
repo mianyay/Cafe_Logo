@@ -1,9 +1,9 @@
 from turtle import *
 import turtleBeads 
 
-turtleBeads.noTrace()
 hideturtle()
 pendown()
+speed(10)
 
 # draw bottom circle of the wifi part
 turtleBeads.teleport(0, -175)
@@ -105,5 +105,4 @@ turtleBeads.teleport(120.39, -58.31)
 left(75)
 forward(10)
 
-turtleBeads.showPicture()
 mainloop()
