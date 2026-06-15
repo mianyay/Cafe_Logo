@@ -56,3 +56,17 @@ liquid(2, 335)
 print(pos())
 liquid(3, 310)
 end_fill()
+
+turtleBeads.teleport(122, -55)
+pencolor("#00a1e7")
+draw_arc(150, 118)
+
+# third one
+turtleBeads.teleport(145, -20)
+draw_arc(180, 119)
+turtleBeads.teleport(168, 5)
+draw_arc(210, 120)
+    
+lines(330)
+turtleBeads.teleport(145, -20)
+lines(46)
