@@ -40,3 +40,19 @@ begin_fill()
 lines(228)
 draw_arc(120, 117)
 lines(148)
+
+#liquid 
+pencolor("#ffc80e")
+fillcolor("#ffc80e")
+def liquid(num, direction):
+    setheading(direction)
+    for i in range(num):
+        circle(30, 30)
+        circle(-30, 30)
+
+liquid(3, 25)
+liquid(2, 0)
+liquid(2, 335)
+print(pos())
+liquid(3, 310)
+end_fill()
